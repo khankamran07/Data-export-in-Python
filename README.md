@@ -1,4 +1,4 @@
-# Data-Gathering-export-in-Python-
+# Data-export-in-Python-
 
 A Jupyter notebook demonstrating how to export a Pandas DataFrame to **CSV, Excel, HTML, JSON, and SQL**
 using the IPL ball-by-ball `deliveries.csv` dataset (179,078 rows × 21 columns).
